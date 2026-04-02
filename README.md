@@ -2,7 +2,7 @@
   <h1 align="center">
 <b>Hi 👋, I'm Ali Debbakh</b>
 </h1>
-  <h3 align="center" style="padding: 10px 0; color: #fff">a passionate full stack developer from Morocco</h3>
+  <h3 align="center" style="padding: 10px 0; color: #fff">a passionate full stack developer from Algeria</h3>
 
   <p align="center">
   
